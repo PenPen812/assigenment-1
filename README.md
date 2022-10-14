@@ -1,7 +1,19 @@
-# Challenge 1 - feature request challenge
+# Accessibility Website
 
 ## Description
-This is a first assignment in our class. 
-On the challenge it helped me remember "What's Semantic Elements for HTML" and when will we need to use or not use <div>.
-"What's differents between <section> & <article>. 
-This time mainly I changed non-semantic element <div> to semantic elements <figcaption>, <article>, <section>, <footer>, <aside> and without change any original structure.
+Based on the starter code, I changed all the <div> to semantic elements. It made this website could search on the search engine easily.
+
+# Usage
+  Deployed Link: https://penpen812.github.io/challenge1-debug/
+
+  The first picture showed the title at the top of the broswer it made customers easy to search by the search engine.
+  Also I change '<div>' to '<figcation>', '<Navbar>'
+  ![ScreenShot1]()
+  
+  On the second piture you will see I change '<div>' to '<section>','<article>' , and '<sidebar>'
+  ![ScreenShot1]()
+  
+  The picture show I changed the '<div>' to '<footer>'
+  ![ScreenShot1]()
+ 
+  Those of the samantic elements on the html. It made easy to do editation in the future.
